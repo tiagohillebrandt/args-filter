@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# ./example.sh --name=test --active --coffee-please=yes
+#
 
 test -f /usr/bin/args-filter && source /usr/bin/args-filter "$*"
 
