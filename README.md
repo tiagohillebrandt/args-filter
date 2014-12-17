@@ -18,7 +18,7 @@ To see it in action, download the `example.sh` file and run:
 Usage
 -------
 
-Add this line to the beginning of your bash script:
+Add this line at the beginning of your bash script:
 
     test -f /usr/bin/args-filter && source /usr/bin/args-filter "$*"
 
