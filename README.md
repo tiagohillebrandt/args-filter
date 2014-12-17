@@ -6,7 +6,7 @@ Filter the params from a bash command line and convert them into variables.
 Installation
 -------
 
-Download the args-filter file and put it in your `/usr/bin/' directory.
+Download the args-filter file and put it in your `/usr/bin/` directory.
 
 Example
 -------
